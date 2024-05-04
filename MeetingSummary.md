@@ -11,15 +11,16 @@
 - **Note Taker:** Tsewang Sherpa
 - **Timekeeper:** John Rizkalla
 - **Attendees:** Dave, Tsewang, and John
-- **Agenda:** Introduction and discussion on problem statement for Marriott Hotel and AI's role.
+- **Agenda:** Go over problem statement for Marriott Hotel and AI's role.
 - **Discussion Highlights:**
-  - Initial meeting to introduce each other and discuss the problem statement regarding Marriott Hotel and AI integration.
-  - Decision to structure the presentation in a problem-solution format.
+  - Initial meeting to discuss the problem statement regarding Marriott Hotel and AI integration.
+  - Learn about AI in hotel management and food services in Singapore.
+  - Everyone's culture is different so we need to learn about Singaporean hospitality, and learn about Marriot Hotel's presence.
 - **Action Items:**
   - Each member tasked with researching specific aspects of the problem statement and reporting back with findings.
   - Tsewang tasked with leading the presentation structure.
 - **Other Information:**
-  - No specific details provided regarding location, time, or meeting logistics.
+  - First meetings so we got overall view of what we need to do.
 
 ## 2. Team Meeting
 
@@ -89,7 +90,7 @@
 ## 5. Team Meeting
 
 - **Date:** April 23, 2024
-- **Time:** 5:30pm
+- **Time:** 5:30pm - 6:30pm
 - **Location:** Online Meeting
 - **Meeting Called by:** Tsewang Sherpa
 - **Type of Meeting:** Online Meeting
@@ -97,10 +98,9 @@
 - **Note Taker:** Dave Persaud
 - **Timekeeper:** John Rizkalla
 - **Attendees:** Dave, Tsewang, and John
-- **Agenda:** Practice presentation delivery.
+- **Agenda:** Practice more of presentation delivery before presenting at 7:30pm.
 - **Discussion Highlights:**
   - Rehearsed presentation delivery to ensure smooth transitions and effective communication of key points.
-  - Identified areas for improvement in delivery style and content clarity.
 - **Action Items:**
   - Refine presentation delivery based on feedback.
 - **Other Information:**
